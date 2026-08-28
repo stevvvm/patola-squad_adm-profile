@@ -284,6 +284,13 @@ h1 em {
   margin-bottom: 0.35rem;
 }
 
+.social-links {
+  display: flex;
+  flex-direction: row;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+}
+
 .contact a {
   display: flex;
   align-items: center;
